@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=tuankietdang52&icon=5&color=10)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tuankietdang1223) 
 
@@ -10,8 +12,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tuankietdang52&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=tuankietdang52&icon=5&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
