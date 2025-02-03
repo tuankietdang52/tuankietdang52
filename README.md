@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700F6&background=000000&center=true&vCenter=true&width=435&lines=Hello!+I'm+Kiet+👋" alt="Typing SVG"/><br>
-  <img src="https://github.com/user-attachments/assets/6856c587-38ef-4d4c-8cd6-d40524b8b7bd" alt="illya gif" height="400" width="435"/> <br>
   I am currently studying to become a <b>Game Developer</b>
 </div>
 
