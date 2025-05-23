@@ -20,5 +20,11 @@
 <a href="https://unity.com" target="_blank">![icons8-unity](https://github.com/user-attachments/assets/5eafc468-cd7b-4c2d-8ec2-f8f2eccc0f2b)</a>&nbsp;&nbsp;&nbsp; 
 
 # GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuankietdang52&theme=tokyonight&hide_border=false)<br/>
+
+<div style="display: flex" align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuankietdang52&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    
+![](https://github-readme-streak-stats.herokuapp.com?user=tuankietdang52&theme=tokyonight)
+  
+</div>
